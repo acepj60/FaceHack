@@ -9,4 +9,5 @@
 3. pkg install curl -y
 4. git clone [scriptnya]
 5. cd FaceHack
+6. unzip output.zip
 6. bash hack.sh
